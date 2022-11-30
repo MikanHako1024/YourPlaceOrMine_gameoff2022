@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d99b9d08a09fab64e8de1080690ab3b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - noneTile: {instanceID: 0}
+  - pointTile: {fileID: 11400000, guid: 2815b78b0b4080e4fb8a244a8ce45cac, type: 2}
+  - upPlusArrowTile: {fileID: 11400000, guid: e6e704cf9d8f3f7419d2e851bb67d262, type: 2}
+  - downPlusArrowTile: {fileID: 11400000, guid: 98d97f6022655844f8c650b63cb17f3f, type: 2}
+  - leftPlusArrowTile: {fileID: 11400000, guid: ca07a37b417823544a5eda2bd0b78a45, type: 2}
+  - rightPlusArrowTile: {fileID: 11400000, guid: 8159783a9fa1cf24f9f98b9eab102a2e, type: 2}
+  - upDbArrowTile: {fileID: 11400000, guid: 168f6764cfd03b549bdf2cf1d224a1ff, type: 2}
+  - downDbArrowTile: {fileID: 11400000, guid: 26824c867552c914e8ba1a03be8028d8, type: 2}
+  - leftDbArrowTile: {fileID: 11400000, guid: c0979b4b951f501428628365163a7cdf, type: 2}
+  - rightDbArrowTile: {fileID: 11400000, guid: d78f01ce1a57f4f46bf176eae59e9ed7, type: 2}
+  - upMoveArrowTile: {instanceID: 0}
+  - downMoveArrowTile: {instanceID: 0}
+  - leftMoveArrowTile: {instanceID: 0}
+  - rightMoveArrowTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
